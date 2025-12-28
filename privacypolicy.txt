@@ -1,0 +1,91 @@
+📌 1️⃣ — Information We Collect
+
+EpicEntry collects only the minimal data necessary to function as a Discord music bot.
+
+We MAY temporarily process:
+
+Server (Guild) ID
+
+Channel ID (voice or text used for commands)
+
+User ID submitting commands (not stored long-term)
+
+Music queue data (titles, URLs, timestamps — stored in memory only)
+
+We DO NOT collect or store:
+
+Personal information such as names, emails, IP addresses
+
+Message content or chat logs
+
+Voice recordings or audio streams
+
+Payment information or account credentials
+
+All handled data is strictly tied to temporary bot functionality and is deleted automatically when the bot restarts or leaves a server.
+
+🗄️ 2️⃣ — Data Storage Duration
+
+No long-term database is used unless otherwise stated.
+
+All temporary data exists only in system memory and is removed when:
+
+The bot restarts or shuts down
+
+The user leaves the server
+
+The queue or session ends
+
+If a future feature requires persistent storage, this policy will be updated and announced.
+
+🔐 3️⃣ — Use of Data
+
+Data is used only to:
+
+Respond to commands
+
+Play and manage music
+
+Ensure proper bot operation and prevent abuse
+
+EpicEntry never sells, shares, or transfers any user information to third parties.
+
+🛑 4️⃣ — User Rights
+
+You have the right to:
+
+Request removal of EpicEntry from any server
+
+Request deletion of any data stored (if persistent data features are added)
+
+To request removal or ask questions, contact the developer (see Section 7).
+
+🛡️ 5️⃣ — Security
+
+While EpicEntry does not store personal data, reasonable measures are taken to ensure:
+
+Protection against unauthorized access
+
+Safe command processing
+
+Prevention of spam or misuse
+
+No system is 100% secure; use of the bot is at your own risk.
+
+🧒 6️⃣ — Children’s Privacy
+
+EpicEntry follows Discord’s age policy.
+The bot is not intended for users under the minimum age required by Discord (typically 13+ depending on region).
+
+📬 7️⃣ — Contact Information
+
+For privacy questions, support, or bot removal requests, contact:
+
+Discord Developer: nouinii5
+
+Support Server: Mandem FC
+📝 8️⃣ — Changes to This Policy
+
+We may update this Privacy Policy at any time. Continued use of EpicEntry after changes are posted means you accept the updated policy.
+
+✔️ By using EpicEntry, you agree to this Privacy Policy.
