@@ -1,0 +1,88 @@
+Welcome to EpicEntry! By using this bot on Discord, you agree to the Terms of Service outlined below. If you do not agree, you must immediately stop using the bot and request its removal from any server.
+
+1️⃣ — Acceptance of Terms
+
+By adding or using EpicEntry, you confirm that:
+
+You are at least 13 years old or meet the minimum age required by Discord in your region.
+
+You agree to follow all Discord Terms of Service and Community Guidelines.
+
+You have permission to use the bot within the server where you interact with it.
+
+2️⃣ — Description of Service
+
+EpicEntry is a Discord music bot designed to:
+
+Join voice channels and play music/audio from supported platforms
+
+Create and manage queues, playlists, skips, pause, resume, and more
+
+Provide server-friendly music playback tools for users
+
+You acknowledge that EpicEntry may experience downtime, bugs, or unexpected behavior. Service is provided "as-is" without guarantees or warranties.
+
+3️⃣ — User Rules & Responsibilities
+
+You agree NOT to use EpicEntry to:
+
+Violate Discord Terms of Service or local laws
+
+Stream copyrighted content for commercial use
+
+Spam, flood, or crash voice channels
+
+Abuse commands or attempt to exploit the bot
+
+Use the bot in servers containing illegal, hateful, violent, or harassing content
+
+Violation of these rules may result in:
+
+Temporary or permanent bans from using EpicEntry
+
+Forced removal of the bot from a server
+
+Reports to Discord Trust & Safety if necessary
+
+4️⃣ — Data Collection & Privacy
+
+EpicEntry only collects minimal data necessary to function, such as:
+
+Server ID, channel ID, command usage (stored temporarily in system memory)
+
+Music queue information (stored temporarily)
+
+EpicEntry does NOT collect:
+
+Chat logs or message content
+
+Personal identifying information
+
+Audio recordings, usernames, or IP addresses
+
+All temporary data is deleted automatically when the bot restarts or leaves a server.
+A full privacy policy is available upon request (or can be added if you ask).
+
+5️⃣ — Service Availability & Termination
+
+We reserve the right to:
+
+Modify or remove features at any time
+
+Shut down the bot temporarily or permanently
+
+Block access to users or servers at our discretion
+
+Update these Terms of Service at any time without prior notice
+
+Continued use of EpicEntry after updates means you accept the revised terms.
+
+6️⃣ — Contact
+
+For support, questions, or bot removal requests, please contact:
+
+Discord: nouinii5
+
+Support Server: Mandem FC
+
+✔ By using EpicEntry, YOU AGREE TO THESE TERMS.
