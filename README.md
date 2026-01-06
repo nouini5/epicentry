@@ -93,6 +93,8 @@ Deberías ver:
 📁 Audios encontrados:
    1. x
    2. y
+  
+   
 ✅ Comandos registrados exitosamente
 
 🌐 Instalación en Servidor (24/7)
