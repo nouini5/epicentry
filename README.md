@@ -88,9 +88,13 @@ M4A
 5. Iniciar el bot
 bashnpm start
 Deberías ver:
+
 ✅ Bot conectado
+
 🎵 Listo para asignar canciones de entrada!
+
 📁 Audios encontrados:
+
    1. x
    2. y
   
