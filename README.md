@@ -1,4 +1,4 @@
-# 🎵 Bot de Entrada Musical para Discord
+# Bot de Entrada Musical para Discord
 
 Bot de Discord que reproduce automáticamente canciones personalizadas cuando usuarios específicos entran a canales de voz. Cada usuario puede tener su propia canción de entrada, como en los eventos de lucha libre o deportivos.
 
